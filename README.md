@@ -1,3 +1,5 @@
+## 🛠️ Compétences
+
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height=50 /></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height=50 /></a>
@@ -11,3 +13,25 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofianeBel&layout=compact&theme=dark" height="112"/></a>
   <a href="https://fr.wikipedia.org/wiki/LeetCode" target="_blank"><img src="https://leetcard.jacoblin.cool/Sifly" height="112"/></a>
 </div>
+
+## Bonjour ! 👋
+
+Je suis Sofiane, un développeur passionné par le développement logiciel et les technologies innovantes. J'aime travailler avec C#, JavaScript et C++ pour créer des solutions efficaces et élégantes.
+
+![GIF de programmation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+> "Le code est comme l'humour. Quand vous devez l'expliquer, c'est qu'il n'est pas si bon." – Cory House
+
+## 📫 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sofiane-belkessa-a030952b3/)
+[![Email](https://img.shields.io/badge/Email-votremail@example.com-red?style=flat&logo=gmail&logoColor=white)](mailto:belkessa0102@gmail.com)
+
+## 🌱 Centres d'intérêt
+
+- Développement de jeu vidéo
+- Développement Web
+- Open Source
+
+
+
+
