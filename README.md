@@ -20,8 +20,8 @@ Je suis Sofiane, un développeur passionné par le développement logiciel et le
 
 <div align="center">
     <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="GIF de programmation" /> <br>
-<!--     <blockquote>"Le code est comme l'humour. Quand vous devez l'expliquer, c'est qu'il n'est pas si bon." – Cory House</blockquote>
-</div> -->
+    <blockquote>"Talk is cheap. Show me the code." – Linus Torvalds</blockquote>
+</div>
 
 ## 📫 Me contacter
 
