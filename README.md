@@ -24,7 +24,7 @@ Je suis Sofiane, un développeur passionné par le développement logiciel et le
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sofiane-belkessa-a030952b3/)
-[![Email](https://img.shields.io/badge/Email-votremail@example.com-red?style=flat&logo=gmail&logoColor=white)](mailto:belkessa0102@gmail.com)
+[![Email](https://img.shields.io/badge/Email-MonEmailPro-red?style=flat&logo=gmail&logoColor=white)](mailto:belkessa0102@gmail.com)
 
 ## 🌱 Centres d'intérêt
 
