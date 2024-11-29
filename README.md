@@ -30,10 +30,10 @@ Je suis Sofiane, un développeur passionné par le développement logiciel et le
 
 <div align="center">
   <a href="mailto:belkessa0102@gmail.com">
-    <img src="https://img.shields.io/badge/Email-belkessa0102@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" height=50 />
+    <img src="https://img.shields.io/badge/Email-belkessa0102@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" height=10 />
   </a>
   <a href= "https://www.linkedin.com/in/sofiane-belkessa-a030952b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn" height=50 />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn" height=10 />
   </a>
 </div>
 
