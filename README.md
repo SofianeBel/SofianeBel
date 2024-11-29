@@ -25,12 +25,15 @@ Je suis Sofiane, un développeur passionné par le développement logiciel et le
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sofiane-belkessa-a030952b3/)
-[![Email](https://img.shields.io/badge/Email-belkessa0102@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:belkessa0102@gmail.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sofiane-belkessa-a030952b3/)
+[![Email](https://img.shields.io/badge/Email-belkessa0102@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:belkessa0102@gmail.com) -->
 
 <div align="center">
   <a href="mailto:belkessa0102@gmail.com">
     <img src="https://img.shields.io/badge/Email-belkessa0102@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href= "https://www.linkedin.com/in/sofiane-belkessa-a030952b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
 </div>
 
