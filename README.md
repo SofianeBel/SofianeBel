@@ -18,8 +18,9 @@
 
 Je suis Sofiane, un développeur passionné par le développement logiciel et les technologies innovantes. J'aime travailler avec C#, JavaScript et C++ pour créer des solutions efficaces et élégantes.
 
+
 <div align="center">
-    ![GIF de programmation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+    ![GIF de programmation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) <br>
     > "Le code est comme l'humour. Quand vous devez l'expliquer, c'est qu'il n'est pas si bon." – Cory House
 </div>
 
